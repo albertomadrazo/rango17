@@ -1,0 +1,16 @@
+/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/tango_with_django_project/my_secrets.txt
+
+# Compiled source #
+###################
+*.pyc
+
+# Logs and databases #
+######################
+*.sql
+*.sqlite*
+*.sqlite
+
+# sublime text #
+################
+*.sublime*
+Rakefile
