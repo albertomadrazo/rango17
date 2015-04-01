@@ -7,10 +7,12 @@
 # Logs and databases #
 ######################
 *.sql
-*.sqlite*
+*.sqlite3
 *.sqlite
 
 # sublime text #
 ################
-*.sublime*
+*.sublime-project
+*.sublime-workspace
 Rakefile
+.coverage
