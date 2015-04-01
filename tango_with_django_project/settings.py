@@ -41,8 +41,16 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rango',
+    'registration',
 )
 
+REGISTRATION_OPEN = True            # If True, users can register
+ACCOUNT_ACTIVATION_DAYS  = 7        # One-week activation window
+REGISTRATION_AUTO_LOGIN = True      # If True, the user will be automatically logged in
+LOGIN_REDIRECT_URL = '/rango/'      # The page you want users to arrive at after they successful log in
+LOGIN_URL = '/accounts/login/'      # The page users are redirected to if they are not logged in 
+                                    # and are trying to access pages requiring authentication
+                                    
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -73,7 +81,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Mexico_City'
 
 USE_I18N = True
 
@@ -89,3 +97,5 @@ STATIC_URL = '/static/'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+# LOGIN_URL = '/rango/login/'

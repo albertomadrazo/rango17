@@ -1,0 +1,1130 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"viist",
+				"visits"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Direcot",
+				"DirectorForm"
+			],
+			[
+				"Titl",
+				"TitleForm"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"mo",
+				"mouseover"
+			],
+			[
+				"clien",
+				"clientHeight"
+			],
+			[
+				"TOc",
+				"TOCLevel2"
+			],
+			[
+				"TOCL",
+				"TOCLevel1"
+			],
+			[
+				"insert",
+				"insertBefore"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"previ",
+				"previousElementSibling"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"start",
+				"startGameAnimation"
+			],
+			[
+				"board",
+				"Board"
+			],
+			[
+				"DRAW",
+				"draw"
+			],
+			[
+				"con",
+				"context_dict"
+			],
+			[
+				"context",
+				"context"
+			],
+			[
+				"this",
+				"thisMonthsInterest"
+			],
+			[
+				"str",
+				"stringToInsert"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"words",
+				"countWords"
+			],
+			[
+				"encryp",
+				"encryptedMsgs"
+			],
+			[
+				"lis",
+				"listMessages"
+			],
+			[
+				"messa",
+				"messageToXOR"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"lea",
+				"leapYearFlag"
+			],
+			[
+				"quadra",
+				"quadraticEcuation"
+			],
+			[
+				"talb",
+				"tableContent"
+			],
+			[
+				"table",
+				"tableContent"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"monster",
+				"capturedMonsters"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"date_defa",
+				"date_default_timezone_set"
+			],
+			[
+				"timezone",
+				"timezone_abbreviations_list"
+			],
+			[
+				"signed",
+				"signed_in"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rango/bing_search.py",
+			"settings":
+			{
+				"buffer_size": 2692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/urls.py",
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/views.py",
+			"settings":
+			{
+				"buffer_size": 6913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/rango-ajax.js",
+			"settings":
+			{
+				"buffer_size": 818,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/tests.py",
+			"settings":
+			{
+				"buffer_size": 1744,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/rango-jquery.js",
+			"settings":
+			{
+				"buffer_size": 538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/templatetags/rango_extras.py",
+			"settings":
+			{
+				"buffer_size": 227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/models.py",
+			"settings":
+			{
+				"buffer_size": 1271,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/add_page.html",
+			"settings":
+			{
+				"buffer_size": 729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/index.html",
+			"settings":
+			{
+				"buffer_size": 1062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/add_category.html",
+			"settings":
+			{
+				"buffer_size": 566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 3996,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/cats.html",
+			"settings":
+			{
+				"buffer_size": 342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/category.html",
+			"settings":
+			{
+				"buffer_size": 2430,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 163.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ori",
+				"Origami: Create Pane Below"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 49.0,
+		"history":
+		[
+			"Install Package",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/static/css/dashboard.css",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/tango_with_django_project/settings.py",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/rango/add_profile.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/registration/login.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/registration/password_change.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/rango/restricted.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/registration/registration_form.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/registration/logout.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/rango/about.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/rango/register.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/tango_with_django_project/urls.py",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/rango/forms.py",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/rango/models.py",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/rango/views.py",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/rango/search.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/rango/templatetags/rango_extras.py",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/rango/profile_registration.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/registration/registration_complete.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/search.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/registration/change_password.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/rango/login.html",
+		"/home/alberto/Desktop/web/git-projects/rango17/tango_with_django_project/templates/registration/edit_profile.html",
+		"/home/alberto/Desktop/pali.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/pelicula.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/base.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/header.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/nueva.html",
+		"/home/alberto/Desktop/web/index.html",
+		"/home/alberto/Desktop/web/pruebas2.html",
+		"/home/alberto/Desktop/web/flanagan/15-9.html",
+		"/home/alberto/Desktop/web/flanagan/13-5.html",
+		"/home/alberto/Desktop/web/flanagan/15-8.html",
+		"/home/alberto/Desktop/web/flanagan/tests.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/urls.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/admin.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/populate_califas.py",
+		"/home/alberto/Desktop/web/flanagan/15-7.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/head.html",
+		"/home/alberto/Desktop/web/flanagan/15-6.html",
+		"/home/alberto/Desktop/web/flanagan/15-5.html",
+		"/home/alberto/Desktop/web/flanagan/15-4.html",
+		"/home/alberto/Desktop/web/flanagan/15-3.html",
+		"/home/alberto/Desktop/web/flanagan/15-2.html",
+		"/home/alberto/Desktop/web/flanagan/15-1.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/cinesnub/settings.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/models.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/cinesnub/urls.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/static/css/mainstyle.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/index.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/views.py",
+		"/home/alberto/Desktop/web/portfolio_animator/style.js",
+		"/home/alberto/Desktop/web/portfolio_animator/style.css",
+		"/home/alberto/Desktop/Python/Pygame/anew/memorypuzzle.py",
+		"/home/alberto/Desktop/web/css/positioning-10steps.html",
+		"/home/alberto/Desktop/web/portfolio_animator/index.html",
+		"/home/alberto/Desktop/web/portfolio_animator/utopia.html",
+		"/home/alberto/Desktop/web/css/9-float_columns_with_clear.css",
+		"/home/alberto/Desktop/web/style.css",
+		"/home/alberto/Desktop/web/css/8-float_columns_with_clear.css",
+		"/home/alberto/Desktop/web/django/cinesnub/califas/urls.py",
+		"/home/alberto/Desktop/web/django/cinesnub/templates/califas/index.html",
+		"/home/alberto/Desktop/web/django/cinesnub/califas/models.py",
+		"/home/alberto/Desktop/web/django/cinesnub/static/css/main.css",
+		"/home/alberto/Desktop/web/django/cinesnub/cinesnub/urls.py",
+		"/home/alberto/Desktop/web/django/cinesnub/cinesnub/settings.py",
+		"/home/alberto/Desktop/web/django/cinesnub/califas/views.py",
+		"/home/alberto/Desktop/web/flanagan/8-3.html",
+		"/home/alberto/Desktop/web/flanagan/8-4.html",
+		"/home/alberto/Desktop/web/django/cinesnub/templates/califas/new.html",
+		"/home/alberto/Desktop/web/flanagan/13-1.html",
+		"/home/alberto/Desktop/web/flanagan/13-4.html",
+		"/home/alberto/Desktop/web/flanagan/13-3.html",
+		"/home/alberto/Desktop/web/flanagan/13-2.html",
+		"/home/alberto/Desktop/web/css/positioning.html",
+		"/home/alberto/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/alberto/Desktop/web/flanagan/ch06.html",
+		"/home/alberto/Desktop/Python/Pygame/anew/drawing.py",
+		"/home/alberto/Desktop/Python/Pygame/anew/fonttext.py",
+		"/home/alberto/Desktop/web/flanagan/6-2.html",
+		"/home/alberto/Desktop/Python/Pygame/anew/catanimation.py",
+		"/home/alberto/Desktop/Python/Pygame/anew/helloworld.py",
+		"/home/alberto/Desktop/web/django/mysite/mysite/urls.py",
+		"/home/alberto/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/home/alberto/.config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/tango_with_django_project/settings.py",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/rango/forms.py",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/templates/rango/index.html",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/rango/urls.py",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/rango/pruebas.py",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/templates/rango/add_category.html",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/rango/models.py",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/rango/views.py",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/templates/rango/add_page.html",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/rango/admin.py",
+		"/home/alberto/Desktop/lili.html",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/populate_rango.py",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/tango_with_django_project/urls.py",
+		"/home/alberto/Desktop/web/flanagan/example1-1_loan_calc.html",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/templates/rango/category.html",
+		"/home/alberto/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/templates/rango/about.html",
+		"/home/alberto/Desktop/web/django/mysite/mysite/settings.py",
+		"/home/alberto/Desktop/web/django/mysite/mysite/wsgi.py",
+		"/home/alberto/Desktop/web/django/mysite/static/css/blog.css",
+		"/home/alberto/Desktop/web/django/mysite/.gitignore",
+		"/home/alberto/Desktop/web/django/mysite/mysite/local_settings.py",
+		"/home/alberto/Desktop/web/django/mysite/requirements.txt",
+		"/home/alberto/Desktop/web/django/mysite/blog/urls.py",
+		"/home/alberto/Desktop/web/django/mysite/blog/templates/blog/post_list.html",
+		"/home/alberto/Desktop/web/django/mysite/blog/templates/blog/post_detail.html",
+		"/home/alberto/Desktop/web/django/mysite/blog/templates/blog/post_edit.html",
+		"/home/alberto/Desktop/web/django/mysite/blog/admin.py",
+		"/home/alberto/Desktop/web/django/mysite/blog/models.py",
+		"/home/alberto/Desktop/web/django/mysite/runtime.txt",
+		"/home/alberto/Desktop/web/django/mysite/Procfile",
+		"/home/alberto/Desktop/web/django/mysite/blog/templates/blog/post_draft_list.html",
+		"/home/alberto/Desktop/web/django/mysite/blog/views.py",
+		"/home/alberto/Desktop/web/django/mysite/blog/templates/blog/base.html",
+		"/home/alberto/Desktop/web/django/mysite/blog/forms.py",
+		"/home/alberto/Desktop/web/django/mysite/static/blog.css",
+		"/home/alberto/Desktop/web/django/mysite/polls/models.py",
+		"/home/alberto/Desktop/web/django/mysite/polls/urls.py",
+		"/home/alberto/Desktop/web/django/mysite/polls/admin.py",
+		"/home/alberto/Desktop/web/django/mysite/polls/templates/polls/index.html",
+		"/home/alberto/Desktop/web/django/mysite/polls/templates/polls/detail.html",
+		"/home/alberto/Desktop/web/django/mysite/polls/templates/polls/results.html",
+		"/home/alberto/Desktop/web/django/mysite/polls/views.py",
+		"/home/alberto/Desktop/web/node/EmployeeDB/package.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"like",
+			"cats",
+			"add_page",
+			"/add_page",
+			"except",
+			"httpresponseredirect",
+			"redirect",
+			"tiriki",
+			"success_url",
+			"success",
+			"?",
+			"redirect",
+			"LOGIN_URL",
+			"return",
+			"onLoad",
+			"add_cat",
+			"category",
+			"DATABASE",
+			"STATICFILES_DIRS",
+			"category(",
+			"decode_url",
+			"fullname",
+			"alphabetic",
+			"inline",
+			"\">",
+			"hour",
+			"response",
+			"title",
+			"font-family",
+			";*/\n",
+			"purple",
+			"red",
+			"gardening",
+			"form",
+			"	\n",
+			"hello",
+			"formulario"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"redirect",
+			"add_director",
+			"director",
+			"alphanumeric",
+			"hours"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rango/bing_search.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2251,
+								2251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 544.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rango/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rango/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6857,
+								6857
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3206.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static/js/rango-ajax.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								774,
+								774
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 54.0,
+						"translation.y": 193.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "rango/tests.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1115,
+								1115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/js/rango-jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								534,
+								534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "rango/templatetags/rango_extras.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "rango/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6913,
+								6913
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3077.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "rango/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "templates/rango/add_page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "templates/rango/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								707,
+								707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 202.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "templates/rango/add_category.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "templates/rango/cats.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "templates/rango/category.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.594339622642,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "rango17.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Python/Pygame/anew/games.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 121.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

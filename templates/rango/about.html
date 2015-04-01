@@ -1,13 +1,17 @@
-<!DOCTYPE html>
+{% extends "base.html" %}
+
 {% load staticfiles %}
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Rango</title>
-</head>
-<body>
-	<h1>{{ aboutmessage }}</h1>
-	<img src="{% static "images/plaza.jpg" %}" />
-	<a href="/rango/">Index</a>
-</body>
-</html>
+{% block title %}About Rango{% endblock %}
+{% block body_block %}
+	<div class="page-header">
+		<h1>{{ aboutmessage }}</h1>
+		</div>
+	<img width="90" height="100" src="{% static "images/plaza.jpg" %}" /><br />
+	{% if visits %}
+		Este sitio ha sido visitado {{ visits }} veces.
+	{% endif %}
+	<button id="about-btn">Click Me - I'm Javascript on Speed, and Crack</button>
+	<p>This is an example</p>
+	<p>This is yet another example</p>
+	<div id="msg">Hello</div>
+{% endblock %}
